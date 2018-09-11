@@ -1,0 +1,17 @@
+{
+  "name": "react-express-exemplar",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "TechBrenda <tech.brenda@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/TechBrenda/react-express-exemplar",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
