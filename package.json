@@ -10,6 +10,8 @@
     "ejs": "^2.6.1",
     "express": "^4.16.3",
     "gulp": "^3.9.1",
-    "gulp-live-server": "^0.0.31"
+    "gulp-live-server": "^0.0.31",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0"
   }
 }
